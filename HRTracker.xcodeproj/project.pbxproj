@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8332B8BC25BFB3AC0032D690 /* HeartRate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8332B8BB25BFB3AC0032D690 /* HeartRate.swift */; };
+		835344AD25D6067400B508F2 /* CameraTestVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835344AC25D6067400B508F2 /* CameraTestVIew.swift */; };
+		835C4F0C25C0E07500FCC922 /* HeartRateProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835C4F0B25C0E07500FCC922 /* HeartRateProvider.swift */; };
+		835C4F1125C1FA4D00FCC922 /* sampledata.json in Resources */ = {isa = PBXBuildFile; fileRef = 835C4F1025C1FA4D00FCC922 /* sampledata.json */; };
 		836A52E82585547E00559A8E /* HRTrackerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 836A52E72585547E00559A8E /* HRTrackerApp.swift */; };
 		836A52EA2585547E00559A8E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 836A52E92585547E00559A8E /* ContentView.swift */; };
 		836A52EC2585548100559A8E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 836A52EB2585548100559A8E /* Assets.xcassets */; };
@@ -33,6 +37,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8332B8BB25BFB3AC0032D690 /* HeartRate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartRate.swift; sourceTree = "<group>"; };
+		835344AC25D6067400B508F2 /* CameraTestVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraTestVIew.swift; sourceTree = "<group>"; };
+		835C4F0B25C0E07500FCC922 /* HeartRateProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartRateProvider.swift; sourceTree = "<group>"; };
+		835C4F1025C1FA4D00FCC922 /* sampledata.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = sampledata.json; sourceTree = "<group>"; };
 		836A52E42585547E00559A8E /* HRTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HRTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		836A52E72585547E00559A8E /* HRTrackerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HRTrackerApp.swift; sourceTree = "<group>"; };
 		836A52E92585547E00559A8E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -72,9 +80,34 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8332B8BA25BFB38F0032D690 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				8332B8BB25BFB3AC0032D690 /* HeartRate.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		835C4F1525C1FAB100FCC922 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				836A52E92585547E00559A8E /* ContentView.swift */,
+				835344AC25D6067400B508F2 /* CameraTestVIew.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		835C4F1625C1FAB800FCC922 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
 		836A52DB2585547E00559A8E = {
 			isa = PBXGroup;
 			children = (
+				835C4F1025C1FA4D00FCC922 /* sampledata.json */,
 				836A52E62585547E00559A8E /* HRTracker */,
 				836A52F82585548100559A8E /* HRTrackerTests */,
 				836A53032585548100559A8E /* HRTrackerUITests */,
@@ -95,8 +128,11 @@
 		836A52E62585547E00559A8E /* HRTracker */ = {
 			isa = PBXGroup;
 			children = (
+				835C4F1625C1FAB800FCC922 /* ViewModels */,
+				835C4F1525C1FAB100FCC922 /* Views */,
+				8332B8BA25BFB38F0032D690 /* Models */,
 				836A52E72585547E00559A8E /* HRTrackerApp.swift */,
-				836A52E92585547E00559A8E /* ContentView.swift */,
+				835C4F0B25C0E07500FCC922 /* HeartRateProvider.swift */,
 				836A52EB2585548100559A8E /* Assets.xcassets */,
 				836A52F02585548100559A8E /* Info.plist */,
 				836A52ED2585548100559A8E /* Preview Content */,
@@ -235,6 +271,7 @@
 			files = (
 				836A52EF2585548100559A8E /* Preview Assets.xcassets in Resources */,
 				836A52EC2585548100559A8E /* Assets.xcassets in Resources */,
+				835C4F1125C1FA4D00FCC922 /* sampledata.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,7 +297,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				836A52EA2585547E00559A8E /* ContentView.swift in Sources */,
+				8332B8BC25BFB3AC0032D690 /* HeartRate.swift in Sources */,
+				835344AD25D6067400B508F2 /* CameraTestVIew.swift in Sources */,
 				836A52E82585547E00559A8E /* HRTrackerApp.swift in Sources */,
+				835C4F0C25C0E07500FCC922 /* HeartRateProvider.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -347,7 +387,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -402,7 +442,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;

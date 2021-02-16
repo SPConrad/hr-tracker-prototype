@@ -1,0 +1,964 @@
+{ 
+    "heartRates": [
+        {
+          "timeIndex": 1611627163,
+          "heartRate": 63
+        },
+        {
+          "timeIndex": 1611627164,
+          "heartRate": 56
+        },
+        {
+          "timeIndex": 1611627165,
+          "heartRate": 54
+        },
+        {
+          "timeIndex": 1611627166,
+          "heartRate": 80
+        },
+        {
+          "timeIndex": 1611627167,
+          "heartRate": 71
+        },
+        {
+          "timeIndex": 1611627168,
+          "heartRate": 79
+        },
+        {
+          "timeIndex": 1611627169,
+          "heartRate": 72
+        },
+        {
+          "timeIndex": 1611627170,
+          "heartRate": 56
+        },
+        {
+          "timeIndex": 1611627171,
+          "heartRate": 51
+        },
+        {
+          "timeIndex": 1611627172,
+          "heartRate": 60
+        },
+        {
+          "timeIndex": 1611627173,
+          "heartRate": 77
+        },
+        {
+          "timeIndex": 1611627174,
+          "heartRate": 67
+        },
+        {
+          "timeIndex": 1611627175,
+          "heartRate": 78
+        },
+        {
+          "timeIndex": 1611627176,
+          "heartRate": 55
+        },
+        {
+          "timeIndex": 1611627177,
+          "heartRate": 53
+        },
+        {
+          "timeIndex": 1611627178,
+          "heartRate": 53
+        },
+        {
+          "timeIndex": 1611627179,
+          "heartRate": 52
+        },
+        {
+          "timeIndex": 1611627180,
+          "heartRate": 57
+        },
+        {
+          "timeIndex": 1611627181,
+          "heartRate": 58
+        },
+        {
+          "timeIndex": 1611627182,
+          "heartRate": 59
+        },
+        {
+          "timeIndex": 1611627183,
+          "heartRate": 65
+        },
+        {
+          "timeIndex": 1611627184,
+          "heartRate": 77
+        },
+        {
+          "timeIndex": 1611627185,
+          "heartRate": 53
+        },
+        {
+          "timeIndex": 1611627186,
+          "heartRate": 65
+        },
+        {
+          "timeIndex": 1611627187,
+          "heartRate": 53
+        },
+        {
+          "timeIndex": 1611627188,
+          "heartRate": 59
+        },
+        {
+          "timeIndex": 1611627189,
+          "heartRate": 64
+        },
+        {
+          "timeIndex": 1611627190,
+          "heartRate": 62
+        },
+        {
+          "timeIndex": 1611627191,
+          "heartRate": 51
+        },
+        {
+          "timeIndex": 1611627192,
+          "heartRate": 60
+        },
+        {
+          "timeIndex": 1611627193,
+          "heartRate": 60
+        },
+        {
+          "timeIndex": 1611627194,
+          "heartRate": 78
+        },
+        {
+          "timeIndex": 1611627195,
+          "heartRate": 69
+        },
+        {
+          "timeIndex": 1611627196,
+          "heartRate": 70
+        },
+        {
+          "timeIndex": 1611627197,
+          "heartRate": 68
+        },
+        {
+          "timeIndex": 1611627198,
+          "heartRate": 61
+        },
+        {
+          "timeIndex": 1611627199,
+          "heartRate": 55
+        },
+        {
+          "timeIndex": 1611627200,
+          "heartRate": 57
+        },
+        {
+          "timeIndex": 1611627201,
+          "heartRate": 80
+        },
+        {
+          "timeIndex": 1611627202,
+          "heartRate": 51
+        },
+        {
+          "timeIndex": 1611627203,
+          "heartRate": 56
+        },
+        {
+          "timeIndex": 1611627204,
+          "heartRate": 77
+        },
+        {
+          "timeIndex": 1611627205,
+          "heartRate": 51
+        },
+        {
+          "timeIndex": 1611627206,
+          "heartRate": 54
+        },
+        {
+          "timeIndex": 1611627207,
+          "heartRate": 52
+        },
+        {
+          "timeIndex": 1611627208,
+          "heartRate": 52
+        },
+        {
+          "timeIndex": 1611627209,
+          "heartRate": 54
+        },
+        {
+          "timeIndex": 1611627210,
+          "heartRate": 64
+        },
+        {
+          "timeIndex": 1611627211,
+          "heartRate": 63
+        },
+        {
+          "timeIndex": 1611627212,
+          "heartRate": 78
+        },
+        {
+          "timeIndex": 1611627213,
+          "heartRate": 69
+        },
+        {
+          "timeIndex": 1611627214,
+          "heartRate": 58
+        },
+        {
+          "timeIndex": 1611627215,
+          "heartRate": 59
+        },
+        {
+          "timeIndex": 1611627216,
+          "heartRate": 73
+        },
+        {
+          "timeIndex": 1611627217,
+          "heartRate": 63
+        },
+        {
+          "timeIndex": 1611627218,
+          "heartRate": 64
+        },
+        {
+          "timeIndex": 1611627219,
+          "heartRate": 52
+        },
+        {
+          "timeIndex": 1611627220,
+          "heartRate": 56
+        },
+        {
+          "timeIndex": 1611627221,
+          "heartRate": 61
+        },
+        {
+          "timeIndex": 1611627222,
+          "heartRate": 57
+        },
+        {
+          "timeIndex": 1611627223,
+          "heartRate": 64
+        },
+        {
+          "timeIndex": 1611627224,
+          "heartRate": 60
+        },
+        {
+          "timeIndex": 1611627225,
+          "heartRate": 57
+        },
+        {
+          "timeIndex": 1611627226,
+          "heartRate": 73
+        },
+        {
+          "timeIndex": 1611627227,
+          "heartRate": 80
+        },
+        {
+          "timeIndex": 1611627228,
+          "heartRate": 60
+        },
+        {
+          "timeIndex": 1611627229,
+          "heartRate": 78
+        },
+        {
+          "timeIndex": 1611627230,
+          "heartRate": 62
+        },
+        {
+          "timeIndex": 1611627231,
+          "heartRate": 74
+        },
+        {
+          "timeIndex": 1611627232,
+          "heartRate": 63
+        },
+        {
+          "timeIndex": 1611627233,
+          "heartRate": 55
+        },
+        {
+          "timeIndex": 1611627234,
+          "heartRate": 66
+        },
+        {
+          "timeIndex": 1611627235,
+          "heartRate": 59
+        },
+        {
+          "timeIndex": 1611627236,
+          "heartRate": 54
+        },
+        {
+          "timeIndex": 1611627237,
+          "heartRate": 74
+        },
+        {
+          "timeIndex": 1611627238,
+          "heartRate": 65
+        },
+        {
+          "timeIndex": 1611627239,
+          "heartRate": 77
+        },
+        {
+          "timeIndex": 1611627240,
+          "heartRate": 66
+        },
+        {
+          "timeIndex": 1611627241,
+          "heartRate": 53
+        },
+        {
+          "timeIndex": 1611627242,
+          "heartRate": 51
+        },
+        {
+          "timeIndex": 1611627243,
+          "heartRate": 64
+        },
+        {
+          "timeIndex": 1611627244,
+          "heartRate": 66
+        },
+        {
+          "timeIndex": 1611627245,
+          "heartRate": 59
+        },
+        {
+          "timeIndex": 1611627246,
+          "heartRate": 79
+        },
+        {
+          "timeIndex": 1611627247,
+          "heartRate": 68
+        },
+        {
+          "timeIndex": 1611627248,
+          "heartRate": 50
+        },
+        {
+          "timeIndex": 1611627249,
+          "heartRate": 62
+        },
+        {
+          "timeIndex": 1611627250,
+          "heartRate": 58
+        },
+        {
+          "timeIndex": 1611627251,
+          "heartRate": 78
+        },
+        {
+          "timeIndex": 1611627252,
+          "heartRate": 75
+        },
+        {
+          "timeIndex": 1611627253,
+          "heartRate": 66
+        },
+        {
+          "timeIndex": 1611627254,
+          "heartRate": 67
+        },
+        {
+          "timeIndex": 1611627255,
+          "heartRate": 77
+        },
+        {
+          "timeIndex": 1611627256,
+          "heartRate": 68
+        },
+        {
+          "timeIndex": 1611627257,
+          "heartRate": 55
+        },
+        {
+          "timeIndex": 1611627258,
+          "heartRate": 64
+        },
+        {
+          "timeIndex": 1611627259,
+          "heartRate": 77
+        },
+        {
+          "timeIndex": 1611627260,
+          "heartRate": 51
+        },
+        {
+          "timeIndex": 1611627261,
+          "heartRate": 70
+        },
+        {
+          "timeIndex": 1611627262,
+          "heartRate": 69
+        },
+        {
+          "timeIndex": 1611627263,
+          "heartRate": 52
+        },
+        {
+          "timeIndex": 1611627264,
+          "heartRate": 55
+        },
+        {
+          "timeIndex": 1611627265,
+          "heartRate": 60
+        },
+        {
+          "timeIndex": 1611627266,
+          "heartRate": 67
+        },
+        {
+          "timeIndex": 1611627267,
+          "heartRate": 53
+        },
+        {
+          "timeIndex": 1611627268,
+          "heartRate": 55
+        },
+        {
+          "timeIndex": 1611627269,
+          "heartRate": 75
+        },
+        {
+          "timeIndex": 1611627270,
+          "heartRate": 69
+        },
+        {
+          "timeIndex": 1611627271,
+          "heartRate": 56
+        },
+        {
+          "timeIndex": 1611627272,
+          "heartRate": 53
+        },
+        {
+          "timeIndex": 1611627273,
+          "heartRate": 76
+        },
+        {
+          "timeIndex": 1611627274,
+          "heartRate": 65
+        },
+        {
+          "timeIndex": 1611627275,
+          "heartRate": 76
+        },
+        {
+          "timeIndex": 1611627276,
+          "heartRate": 61
+        },
+        {
+          "timeIndex": 1611627277,
+          "heartRate": 57
+        },
+        {
+          "timeIndex": 1611627278,
+          "heartRate": 59
+        },
+        {
+          "timeIndex": 1611627279,
+          "heartRate": 60
+        },
+        {
+          "timeIndex": 1611627280,
+          "heartRate": 66
+        },
+        {
+          "timeIndex": 1611627281,
+          "heartRate": 56
+        },
+        {
+          "timeIndex": 1611627282,
+          "heartRate": 60
+        },
+        {
+          "timeIndex": 1611627283,
+          "heartRate": 66
+        },
+        {
+          "timeIndex": 1611627284,
+          "heartRate": 58
+        },
+        {
+          "timeIndex": 1611627285,
+          "heartRate": 78
+        },
+        {
+          "timeIndex": 1611627286,
+          "heartRate": 53
+        },
+        {
+          "timeIndex": 1611627287,
+          "heartRate": 69
+        },
+        {
+          "timeIndex": 1611627288,
+          "heartRate": 76
+        },
+        {
+          "timeIndex": 1611627289,
+          "heartRate": 59
+        },
+        {
+          "timeIndex": 1611627290,
+          "heartRate": 72
+        },
+        {
+          "timeIndex": 1611627291,
+          "heartRate": 76
+        },
+        {
+          "timeIndex": 1611627292,
+          "heartRate": 77
+        },
+        {
+          "timeIndex": 1611627293,
+          "heartRate": 75
+        },
+        {
+          "timeIndex": 1611627294,
+          "heartRate": 66
+        },
+        {
+          "timeIndex": 1611627295,
+          "heartRate": 76
+        },
+        {
+          "timeIndex": 1611627296,
+          "heartRate": 56
+        },
+        {
+          "timeIndex": 1611627297,
+          "heartRate": 68
+        },
+        {
+          "timeIndex": 1611627298,
+          "heartRate": 67
+        },
+        {
+          "timeIndex": 1611627299,
+          "heartRate": 53
+        },
+        {
+          "timeIndex": 1611627300,
+          "heartRate": 59
+        },
+        {
+          "timeIndex": 1611627301,
+          "heartRate": 73
+        },
+        {
+          "timeIndex": 1611627302,
+          "heartRate": 74
+        },
+        {
+          "timeIndex": 1611627303,
+          "heartRate": 72
+        },
+        {
+          "timeIndex": 1611627304,
+          "heartRate": 57
+        },
+        {
+          "timeIndex": 1611627305,
+          "heartRate": 59
+        },
+        {
+          "timeIndex": 1611627306,
+          "heartRate": 71
+        },
+        {
+          "timeIndex": 1611627307,
+          "heartRate": 53
+        },
+        {
+          "timeIndex": 1611627308,
+          "heartRate": 76
+        },
+        {
+          "timeIndex": 1611627309,
+          "heartRate": 58
+        },
+        {
+          "timeIndex": 1611627310,
+          "heartRate": 77
+        },
+        {
+          "timeIndex": 1611627311,
+          "heartRate": 51
+        },
+        {
+          "timeIndex": 1611627312,
+          "heartRate": 52
+        },
+        {
+          "timeIndex": 1611627313,
+          "heartRate": 76
+        },
+        {
+          "timeIndex": 1611627314,
+          "heartRate": 66
+        },
+        {
+          "timeIndex": 1611627315,
+          "heartRate": 68
+        },
+        {
+          "timeIndex": 1611627316,
+          "heartRate": 80
+        },
+        {
+          "timeIndex": 1611627317,
+          "heartRate": 59
+        },
+        {
+          "timeIndex": 1611627318,
+          "heartRate": 67
+        },
+        {
+          "timeIndex": 1611627319,
+          "heartRate": 73
+        },
+        {
+          "timeIndex": 1611627320,
+          "heartRate": 66
+        },
+        {
+          "timeIndex": 1611627321,
+          "heartRate": 75
+        },
+        {
+          "timeIndex": 1611627322,
+          "heartRate": 58
+        },
+        {
+          "timeIndex": 1611627323,
+          "heartRate": 62
+        },
+        {
+          "timeIndex": 1611627324,
+          "heartRate": 58
+        },
+        {
+          "timeIndex": 1611627325,
+          "heartRate": 62
+        },
+        {
+          "timeIndex": 1611627326,
+          "heartRate": 78
+        },
+        {
+          "timeIndex": 1611627327,
+          "heartRate": 74
+        },
+        {
+          "timeIndex": 1611627328,
+          "heartRate": 64
+        },
+        {
+          "timeIndex": 1611627329,
+          "heartRate": 68
+        },
+        {
+          "timeIndex": 1611627330,
+          "heartRate": 80
+        },
+        {
+          "timeIndex": 1611627331,
+          "heartRate": 52
+        },
+        {
+          "timeIndex": 1611627332,
+          "heartRate": 65
+        },
+        {
+          "timeIndex": 1611627333,
+          "heartRate": 58
+        },
+        {
+          "timeIndex": 1611627334,
+          "heartRate": 73
+        },
+        {
+          "timeIndex": 1611627335,
+          "heartRate": 58
+        },
+        {
+          "timeIndex": 1611627336,
+          "heartRate": 65
+        },
+        {
+          "timeIndex": 1611627337,
+          "heartRate": 76
+        },
+        {
+          "timeIndex": 1611627338,
+          "heartRate": 63
+        },
+        {
+          "timeIndex": 1611627339,
+          "heartRate": 71
+        },
+        {
+          "timeIndex": 1611627340,
+          "heartRate": 60
+        },
+        {
+          "timeIndex": 1611627341,
+          "heartRate": 77
+        },
+        {
+          "timeIndex": 1611627342,
+          "heartRate": 59
+        },
+        {
+          "timeIndex": 1611627343,
+          "heartRate": 72
+        },
+        {
+          "timeIndex": 1611627344,
+          "heartRate": 70
+        },
+        {
+          "timeIndex": 1611627345,
+          "heartRate": 60
+        },
+        {
+          "timeIndex": 1611627346,
+          "heartRate": 78
+        },
+        {
+          "timeIndex": 1611627347,
+          "heartRate": 63
+        },
+        {
+          "timeIndex": 1611627348,
+          "heartRate": 51
+        },
+        {
+          "timeIndex": 1611627349,
+          "heartRate": 50
+        },
+        {
+          "timeIndex": 1611627350,
+          "heartRate": 64
+        },
+        {
+          "timeIndex": 1611627351,
+          "heartRate": 79
+        },
+        {
+          "timeIndex": 1611627352,
+          "heartRate": 51
+        },
+        {
+          "timeIndex": 1611627353,
+          "heartRate": 61
+        },
+        {
+          "timeIndex": 1611627354,
+          "heartRate": 70
+        },
+        {
+          "timeIndex": 1611627355,
+          "heartRate": 73
+        },
+        {
+          "timeIndex": 1611627356,
+          "heartRate": 69
+        },
+        {
+          "timeIndex": 1611627357,
+          "heartRate": 59
+        },
+        {
+          "timeIndex": 1611627358,
+          "heartRate": 76
+        },
+        {
+          "timeIndex": 1611627359,
+          "heartRate": 78
+        },
+        {
+          "timeIndex": 1611627360,
+          "heartRate": 57
+        },
+        {
+          "timeIndex": 1611627361,
+          "heartRate": 62
+        },
+        {
+          "timeIndex": 1611627362,
+          "heartRate": 58
+        },
+        {
+          "timeIndex": 1611627363,
+          "heartRate": 77
+        },
+        {
+          "timeIndex": 1611627364,
+          "heartRate": 67
+        },
+        {
+          "timeIndex": 1611627365,
+          "heartRate": 70
+        },
+        {
+          "timeIndex": 1611627366,
+          "heartRate": 79
+        },
+        {
+          "timeIndex": 1611627367,
+          "heartRate": 55
+        },
+        {
+          "timeIndex": 1611627368,
+          "heartRate": 76
+        },
+        {
+          "timeIndex": 1611627369,
+          "heartRate": 77
+        },
+        {
+          "timeIndex": 1611627370,
+          "heartRate": 54
+        },
+        {
+          "timeIndex": 1611627371,
+          "heartRate": 78
+        },
+        {
+          "timeIndex": 1611627372,
+          "heartRate": 60
+        },
+        {
+          "timeIndex": 1611627373,
+          "heartRate": 53
+        },
+        {
+          "timeIndex": 1611627374,
+          "heartRate": 80
+        },
+        {
+          "timeIndex": 1611627375,
+          "heartRate": 60
+        },
+        {
+          "timeIndex": 1611627376,
+          "heartRate": 64
+        },
+        {
+          "timeIndex": 1611627377,
+          "heartRate": 61
+        },
+        {
+          "timeIndex": 1611627378,
+          "heartRate": 75
+        },
+        {
+          "timeIndex": 1611627379,
+          "heartRate": 50
+        },
+        {
+          "timeIndex": 1611627380,
+          "heartRate": 53
+        },
+        {
+          "timeIndex": 1611627381,
+          "heartRate": 80
+        },
+        {
+          "timeIndex": 1611627382,
+          "heartRate": 58
+        },
+        {
+          "timeIndex": 1611627383,
+          "heartRate": 52
+        },
+        {
+          "timeIndex": 1611627384,
+          "heartRate": 70
+        },
+        {
+          "timeIndex": 1611627385,
+          "heartRate": 75
+        },
+        {
+          "timeIndex": 1611627386,
+          "heartRate": 60
+        },
+        {
+          "timeIndex": 1611627387,
+          "heartRate": 68
+        },
+        {
+          "timeIndex": 1611627388,
+          "heartRate": 57
+        },
+        {
+          "timeIndex": 1611627389,
+          "heartRate": 51
+        },
+        {
+          "timeIndex": 1611627390,
+          "heartRate": 71
+        },
+        {
+          "timeIndex": 1611627391,
+          "heartRate": 69
+        },
+        {
+          "timeIndex": 1611627392,
+          "heartRate": 56
+        },
+        {
+          "timeIndex": 1611627393,
+          "heartRate": 78
+        },
+        {
+          "timeIndex": 1611627394,
+          "heartRate": 68
+        },
+        {
+          "timeIndex": 1611627395,
+          "heartRate": 77
+        },
+        {
+          "timeIndex": 1611627396,
+          "heartRate": 52
+        },
+        {
+          "timeIndex": 1611627397,
+          "heartRate": 65
+        },
+        {
+          "timeIndex": 1611627398,
+          "heartRate": 75
+        },
+        {
+          "timeIndex": 1611627399,
+          "heartRate": 70
+        },
+        {
+          "timeIndex": 1611627400,
+          "heartRate": 55
+        },
+        {
+          "timeIndex": 1611627401,
+          "heartRate": 50
+        },
+        {
+          "timeIndex": 1611627402,
+          "heartRate": 59
+        }
+      ]
+}

@@ -8,8 +8,21 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State private var heartRate: String = "57"
+    @EnvironmentObject var currentHeartRate: SimpleHeartRatesStore
+    
+    
     var body: some View {
-        Text("Hello, world!")
+        Text(currentHeartRate.currentHeartRateInfo)
+            .padding()
+        //HRView(heartRate: currentHeartRate)
+    }
+}
+
+struct HRView: View {
+    @Binding var heartRate: Int
+    var body: some View {
+        Text("\(heartRate)")
             .padding()
     }
 }
@@ -17,5 +30,6 @@ struct ContentView: View {
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
+            .environmentObject(SimpleHeartRatesStore())
     }
 }
